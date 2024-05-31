@@ -5,7 +5,7 @@ import {
 import HomePage from "./routes/homePage/homePage"
 import ListPage from "./routes/listPage/listPage";
 import Layout from "./routes/layout/layout";
-import SinglePage from "./routes/singlePage/SinglePage";
+import SinglePage from "./routes/singlePage/singlePage";
 
 function App() {
   const router = createBrowserRouter([
